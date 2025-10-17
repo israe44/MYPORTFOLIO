@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/israe44/MYPORTFOLIO.git/static/css/main.c125d4d2.css",
+    "main.js": "/israe44/MYPORTFOLIO.git/static/js/main.046ec87f.js",
+    "index.html": "/israe44/MYPORTFOLIO.git/index.html",
+    "main.c125d4d2.css.map": "/israe44/MYPORTFOLIO.git/static/css/main.c125d4d2.css.map",
+    "main.046ec87f.js.map": "/israe44/MYPORTFOLIO.git/static/js/main.046ec87f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c125d4d2.css",
+    "static/js/main.046ec87f.js"
+  ]
+}
